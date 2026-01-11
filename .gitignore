@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# C extensions
+*.egg-info
+build/
+dist/
+
+# virtual environments
+.venv/
+env/
+venv/
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Model Context Protocol local servers
+.mcp/local-servers/
+
+# Environment variables
+.env
+
+# Test & coverage
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+coverage.xml
+
+# Mac OS
+.DS_Store
