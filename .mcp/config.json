@@ -1,0 +1,21 @@
+{
+  "clients": {
+    "filesystem": {
+      "local": {
+        "enabled": true,
+        "path": "."
+      }
+    },
+    "git": {
+      "local": {
+        "enabled": true
+      }
+    },
+    "github": {
+      "default": {
+        "enabled": true,
+        "token": "${GITHUB_TOKEN}"
+      }
+    }
+  }
+}
