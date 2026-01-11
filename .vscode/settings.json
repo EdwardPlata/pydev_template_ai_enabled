@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "/usr/local/bin/python",
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black",
+  "python.linting.pylintEnabled": false,
+  "editor.formatOnSave": true,
+  "mcp.configPath": ".mcp/config.json"
+}
